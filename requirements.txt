@@ -1,0 +1,11 @@
+openai
+langchain
+faiss-cpu
+transformers
+torch
+pillow
+streamlit
+python-dotenv
+tweepy
+pytrends
+sentence-transformers
