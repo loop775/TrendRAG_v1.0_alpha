@@ -1,4 +1,5 @@
-# 🔥 Social Media Trendability Checker (RAG)
+
+# 🔥 Gradient Retrieval-Augmented Generation (GRAG)
 
 This project uses Retrieval-Augmented Generation (RAG) to assess whether a social media post (text or image) is likely to trend, based on current trending topics from platforms like Twitter and Google Trends.
 
